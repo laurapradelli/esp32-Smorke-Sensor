@@ -12,8 +12,8 @@
 #define sensor_input 36
 
 //dati per collegamento al wifi
-#define SSID "Pradelli WLAN"
-#define PASSWORD "PRDLRA05D63F257A"
+#define SSID ""
+#define PASSWORD ""
 
 
 HardwareSerial mySerial(2);
