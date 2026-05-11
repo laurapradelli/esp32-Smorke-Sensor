@@ -26,7 +26,7 @@ Il dispositivo si connette alla rete Wi-Fi locale e inizia il campionamento dei 
 ## Struttura del Repository
 
 *   `src/`: Contiene il codice sorgente (.cpp).
-*   `docs/`: Documentazione tecnica e schemi del circuito.
+*   `docs/`: Schema del circuito.
 
 ---
 *Progetto realizzato per scopi didattici e prototipazione IoT.*
