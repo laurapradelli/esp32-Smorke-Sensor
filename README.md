@@ -25,7 +25,7 @@ Il dispositivo si connette alla rete Wi-Fi locale e inizia il campionamento dei 
 
 ## Struttura del Repository
 
-*   `src/`: Contiene il codice sorgente (.ino / .cpp).
+*   `src/`: Contiene il codice sorgente (.cpp).
 *   `docs/`: Documentazione tecnica e schemi del circuito.
 
 ---
