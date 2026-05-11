@@ -1,4 +1,3 @@
-# esp32-Smoke-Sensor
 # IoT Smoke Detection System (ESP32)
 
 Questo progetto consiste in un sistema di monitoraggio ambientale intelligente basato su microcontrollore **ESP32**, progettato per il rilevamento tempestivo di fumo e gas nocivi. Il sistema integra hardware IoT, protocolli di comunicazione standard e servizi cloud per garantire la sicurezza domestica o industriale.
